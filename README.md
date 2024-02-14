@@ -4,8 +4,8 @@
 ## Introduction
 
 This code implements temporal action detection model, using Pooling layer with convolution layer.
-This code based on Actionformer [this link](https://arxiv.org/abs/2211.09074). 
-[this link](https://github.com/happyharrycn/actionformer_release)
+This code based on Actionformer [paper link](https://arxiv.org/abs/2211.09074). *
+[code link](https://github.com/happyharrycn/actionformer_release)
 
 
 
